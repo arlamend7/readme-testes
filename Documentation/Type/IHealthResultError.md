@@ -16,6 +16,7 @@ public interface IHealthResultError : IHealthResult
 
 </i>
 
+
 #### <small>Related items</small>
 
 [IHealthResult](IHealthResult.md)

@@ -16,6 +16,7 @@ public interface IHealthResultResponse : IHealthResult
 
 </i>
 
+
 #### <small>Related items</small>
 
 [IHealthResult](IHealthResult.md)
