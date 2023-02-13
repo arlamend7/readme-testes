@@ -3,6 +3,6 @@
 #### <small>Briefcase.HealthCheck</small>
 
 
-[HealthExecution](..\Type\HealthExecution.md)
+[HealthExecution](../Type/HealthExecution.md)
 
-[HealthExecutionBase](..\Type\HealthExecutionBase.md)
+[HealthExecutionBase](../Type/HealthExecutionBase.md)

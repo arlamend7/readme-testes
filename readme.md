@@ -102,22 +102,22 @@ string ReturnText()
 #### Assembly information
 
 
-#### Namespace [Briefcase.HealthCheck](Namespace\Briefcase.HealthCheck.md);
+#### Namespace [Briefcase.HealthCheck](Namespace/Briefcase.HealthCheck.md);
 
 ##### Classes
 
-<small>[HealthExecution](.\Documentation\Type\HealthExecution.md)</small>
+<small>[HealthExecution](Documentation/Type/HealthExecution.md)</small>
 
-<small>[HealthExecutionBase](.\Documentation\Type\HealthExecutionBase.md)</small>
+<small>[HealthExecutionBase](Documentation/Type/HealthExecutionBase.md)</small>
 
-#### Namespace [Briefcase.HealthCheck.Entities.Interfaces](Namespace\Briefcase.HealthCheck.Entities.Interfaces.md);
+#### Namespace [Briefcase.HealthCheck.Entities.Interfaces](Namespace/Briefcase.HealthCheck.Entities.Interfaces.md);
 
 ##### Interfaces
 
-<small>[IHealthNamedResult](.\Documentation\Type\IHealthNamedResult.md)</small>
+<small>[IHealthNamedResult](Documentation/Type/IHealthNamedResult.md)</small>
 
-<small>[IHealthResult](.\Documentation\Type\IHealthResult.md)</small>
+<small>[IHealthResult](Documentation/Type/IHealthResult.md)</small>
 
-<small>[IHealthResultError](.\Documentation\Type\IHealthResultError.md)</small>
+<small>[IHealthResultError](Documentation/Type/IHealthResultError.md)</small>
 
-<small>[IHealthResultResponse](.\Documentation\Type\IHealthResultResponse.md)</small>
+<small>[IHealthResultResponse](Documentation/Type/IHealthResultResponse.md)</small>

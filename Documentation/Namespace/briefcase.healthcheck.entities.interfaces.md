@@ -3,10 +3,10 @@
 #### <small>Briefcase.HealthCheck.Entities.Interfaces</small>
 
 
-[IHealthNamedResult](..\Type\IHealthNamedResult.md)
+[IHealthNamedResult](../Type/IHealthNamedResult.md)
 
-[IHealthResult](..\Type\IHealthResult.md)
+[IHealthResult](../Type/IHealthResult.md)
 
-[IHealthResultError](..\Type\IHealthResultError.md)
+[IHealthResultError](../Type/IHealthResultError.md)
 
-[IHealthResultResponse](..\Type\IHealthResultResponse.md)
+[IHealthResultResponse](../Type/IHealthResultResponse.md)
